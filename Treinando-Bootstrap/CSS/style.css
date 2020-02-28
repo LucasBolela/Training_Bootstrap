@@ -1,0 +1,41 @@
+body{
+  font-family: 'Times New Roman', Times, serif;
+}
+.topics{
+color: white;
+}
+.navbar{
+  background-color: rgb(42, 42, 44);
+}
+
+.quem-somos{
+  background-color: rgb(255, 110, 27);
+}
+.margin{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.parceiros{
+  background-color: rgb(153, 153, 153);
+}
+.servicos{
+  background-color: whitesmoke;
+}
+.contato{
+  background-color: rgb(42, 42, 44);
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+.margin2{
+  margin: 10px;
+}
+.margin3{
+  margin-left: 15px;
+  margin-right: -5px;
+}
+.text{
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: justify;
+}
